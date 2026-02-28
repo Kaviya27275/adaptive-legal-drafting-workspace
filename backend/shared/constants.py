@@ -1,0 +1,1 @@
+MANDATORY_CLAUSES = ["Payment", "Termination", "Confidentiality"]
